@@ -1,0 +1,11 @@
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\ProductManagement.Data.dll.config
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\ProductManagement.Data.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\ProductManagement.Data.pdb
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\EntityFramework.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\EntityFramework.xml
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.csprojAssemblyReference.cache
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.csproj.CopyComplete
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.pdb

@@ -1,0 +1,7 @@
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\bin\Debug\ProductManagement.Entity.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\bin\Debug\ProductManagement.Entity.pdb
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\obj\Debug\ProductManagement.Entity.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\obj\Debug\ProductManagement.Entity.pdb
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\bin\Debug\DataAnnotationsValidator.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\obj\Debug\ProductManagement.Entity.csprojAssemblyReference.cache
+E:\Gateway\C Features\ProductManagement\ProductManagement.Entity\obj\Debug\ProductManagement.Entity.csproj.CopyComplete

@@ -1,0 +1,5 @@
+E:\Gateway\C Features\ProductManagement\ProductManagement.Common\bin\Debug\ProductManagement.Common.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Common\bin\Debug\ProductManagement.Common.pdb
+E:\Gateway\C Features\ProductManagement\ProductManagement.Common\obj\Debug\ProductManagement.Common.csprojAssemblyReference.cache
+E:\Gateway\C Features\ProductManagement\ProductManagement.Common\obj\Debug\ProductManagement.Common.dll
+E:\Gateway\C Features\ProductManagement\ProductManagement.Common\obj\Debug\ProductManagement.Common.pdb
